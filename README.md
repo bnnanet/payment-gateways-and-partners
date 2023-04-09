@@ -30,7 +30,7 @@ It's used by *ISV*s  to create payment experiences similar to Stripe: \
 - [Align Pay](https://gateway.alignpay.com/merchants/resources/integration/integration_portal.php#methodology)
 - [Bottom Line Payments](https://secure.bottomlinegateway.com/merchants/resources/integration/integration_portal.php#methodology)
 - [CanyonPay](https://canyonpay.transactiongateway.com/merchants/resources/integration/integration_portal.php#methodology)
-- Charge1
+- [Charge1](https://secure.charge1.com/merchants/resources/integration/integration_portal.php#methodology)
   - https://charge1.com/sdk-apis/
 - [CMS](https://cms.transactiongateway.com/merchants/resources/integration/integration_portal.php#methodology)
 - [CryptoBucks](https://cryptobucksapp.com/api-documentation/)
