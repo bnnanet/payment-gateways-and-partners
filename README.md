@@ -30,7 +30,8 @@ It's used by *ISV*s  to create payment experiences similar to Stripe: \
 - [Align Pay](https://gateway.alignpay.com/merchants/resources/integration/integration_portal.php#methodology)
 - [Bottom Line Payments](https://secure.bottomlinegateway.com/merchants/resources/integration/integration_portal.php#methodology)
 - [CanyonPay](https://canyonpay.transactiongateway.com/merchants/resources/integration/integration_portal.php#methodology)
-- [Charge1](https://charge1.com/sdk-apis/)
+- Charge1
+  - https://charge1.com/sdk-apis/
 - [CMS](https://cms.transactiongateway.com/merchants/resources/integration/integration_portal.php#methodology)
 - [CryptoBucks](https://cryptobucksapp.com/api-documentation/)
 - [CyoGate](https://secure.cyogate.net/merchants/resources/integration/integration_portal.php#methodology)
@@ -40,7 +41,7 @@ It's used by *ISV*s  to create payment experiences similar to Stripe: \
 - [EPNA (Electronic Processing of North America)](https://epna.transactiongateway.com/merchants/resources/integration/integration_portal.php#methodology)
 - [Inspire Commerce (.pay / dot pay)](https://secure.inspiregateway.net/merchants/resources/integration/integration_portal.php#methodology)
 - [Integrate Payments](https://integratepayments.transactiongateway.com/merchants/resources/integration/integration_portal.php#methodology)
-- [Merchant Guy](https://vizypay.transactiongateway.com/merchants/resources/integration/integration_portal.php#methodology)
+- [Merchant Guy](https://secure.merchantguygateway.com/merchants/resources/integration/integration_portal.php#methodology)
 - [Merchant One](https://secure.merchantonegateway.com/merchants/resources/integration/integration_portal.php#methodology)
 - [MSG Payment Systems](https://msgpay.transactiongateway.com/merchants/resources/integration/integration_portal.php#methodology)
 - [National Processing](https://secure.nationalprocessinggateway.com/merchants/resources/integration/integration_portal.php#methodology)
@@ -49,6 +50,7 @@ It's used by *ISV*s  to create payment experiences similar to Stripe: \
   - https://www.payabli.com/wp-content/uploads/2020/12/NMI-Collect-JS.pdf
 - [PayKings](https://paykings.transactiongateway.com/merchants/resources/integration/integration_portal.php#methodology)
 - [Payscape](https://secure.payscapegateway.com/merchants/resources/integration/integration_portal.php#methodology)
+- [Pay Engines](https://payengines.transactiongateway.com/merchants/resources/integration/integration_portal.php#methodology)
 - [PlanetAuthorize](https://secure.planetauthorizegateway.com/merchants/resources/integration/integration_portal.php#methodology)
 - [RedFynn Technologies](https://secure.redfynngateway.com/merchants/resources/integration/integration_portal.php#methodology)
 - [SecureGlobalPay](https://secureglobalpay.transactiongateway.com/merchants/resources/integration/integration_portal.php#methodology)
@@ -67,3 +69,4 @@ For example:
 - `"collect.js" payment api`
 - `"merchants/resources/integration/integration_portal"`
 - `transactiongateway.com`
+- sites with a CNAME for `secure.` pointing to `transactiongateway.com`
