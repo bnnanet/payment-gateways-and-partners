@@ -1,5 +1,7 @@
 # Payment Processors that use NMI Payment Gateway
 
+Please **open an issue** or [**PR**](https://github.com/nmi-sdks/sites-using-nmi-payment-gateway/edit/main/README.md) if you have something to add!
+
 # What's NMI Payment Gateway?
 
 _Network Merchants Payment Gateway_ is White-Labeled payment gateway software for *ISV*s (*Independent Software Vendor*s): \
@@ -18,6 +20,17 @@ Due to the white-labeled nature of the software, it's hard to search for, but he
 - [Drupal Commerce Collect.js](https://www.drupal.org/project/commerce_collect_js)
 - [.Net PaymentGatewayClient](https://www.nuget.org/packages/PaymentGatewayClient)
 - [WooCommerce - Plugin](https://codecanyon.net/item/network-merchants-payment-gateway-for-woocommerce/1635904)
+
+If you create an integration, please consider tagging it with these keywords to make it easy to find in search: \
+(and, of course, [add it](https://github.com/nmi-sdks/sites-using-nmi-payment-gateway/issues) here!)
+
+- nmi
+- payment gateway
+- transactiongateway.com
+- gateway services
+- collect.js
+- gateway.js
+- white labeled
 
 # Which Payment Processors Use NMI?
 
