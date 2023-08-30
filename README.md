@@ -2,6 +2,13 @@
 
 Please **open an issue** or [**PR**](https://github.com/nmi-sdks/sites-using-nmi-payment-gateway/edit/main/README.md) if you have something to add!
 
+# What Payment Gateways Exist?
+
+- NMI
+- FluidPay
+- Banquest
+- Fortis
+
 # What's NMI Payment Gateway?
 
 _Network Merchants Payment Gateway_ is White-Labeled payment gateway software for *ISV*s (*Independent Software Vendor*s): \
@@ -13,7 +20,7 @@ _Network Merchants Payment Gateway_ is White-Labeled payment gateway software fo
 - https://example.transactiongateway.com (white-label hosting only)
 - https://status.transactiongateway.com/
 
-# What Integrations Exist?
+## Integrations
 
 Due to the white-labeled nature of the software, it's hard to search for, but here are a few:
 
@@ -32,7 +39,7 @@ If you create an integration, please consider tagging it with these keywords to 
 - gateway.js
 - white labeled
 
-# Which Payment Processors Use NMI?
+## White-Labeled Payment Processors
 
 It's used by *ISV*s  to create payment experiences similar to Stripe: \
 (but lower fees, less hassle)
@@ -74,7 +81,7 @@ It's used by *ISV*s  to create payment experiences similar to Stripe: \
 - [Vericheck](https://vericheck.transactiongateway.com/merchants/resources/integration/integration_portal.php#methodology)
 - [VizyPay](https://vizypay.transactiongateway.com/merchants/resources/integration/integration_portal.php#methodology)
 
-# How To Find Others?
+### How To Find Others?
 
 These sites can be found by searching for terms from the whitelabled documentation and finding Sandbox API links.
 
@@ -83,3 +90,30 @@ For example:
 - `"merchants/resources/integration/integration_portal"`
 - `transactiongateway.com`
 - sites with a CNAME for `secure.` pointing to `transactiongateway.com`
+
+# Which Payment Processors Use FluidPay?
+
+- [**FluidPay**](https://sandbox.fluidpay.com/docs/api/)
+- [2nd Amendment Processing](https://sandbox.2apgateway.com/docs/api/) (<https://www.secondamendmentprocessing.com/>)
+- [approvely](https://sandbox.approvely.net/docs/api/) (<https://www.approvely.com/>)
+- [BlueDog](https://sandbox.bluedogpayments.com/docs/api/) (<https://fortispay.com/bluedog/>)
+- [celero (gotnp)](https://sandbox.gotnpgateway.com/docs/api/) (<https://www.celerocommerce.com/>)
+- [Durango Merchant Services](https://sandbox.durangomsgateway.com/docs/api/) (<https://durangomerchantservices.com/>)
+- [iQPro](https://sandbox.basysiqpro.com/docs/api/) (<https://iqpro.com/>)
+- [metricsglobal](https://sandbox.mgipayments.com/docs/api/) (<https://metricsglobal.com/>)
+- [SparrowOne](https://sandbox.gosparrowone.com/docs/api/) (<https://sparrowone.com/>)
+
+# Which Payment Processors Use Banquest?
+
+- [**Banquest**](https://docs.banquestgateway.com/api/v2)
+- [OptiConnEx](https://docs.opticonnex.com/api/v2)
+- [Payco](https://docs.paycosecure.com/api/v2)
+- [PayStri](https://docs.paystrigateway.com/api/v2)
+- [ServeFirst Solutions](https://docs.mysfsgateway.com/api/v2)
+- [VistaPay](https://docs.vistapaygateway.com/api/v2)
+
+# Others
+
+- Fortis
+  - https://docs.fortis.tech/v/1_0_0.html#/rest/quick-start-guide/overview
+  - https://docs.fortispay.com/developers/quick-start
