@@ -42,7 +42,8 @@ If you create an integration, please consider tagging it with these keywords to 
 ## Public Sandbox
 
 Integrate Payments has an open sandbox instance:
-- https://www.integratepayments.com/payment-integration-platform
+- Login: https://www.integratepayments.com/payment-integration-platform
+- API Keys: https://integratepayments.transactiongateway.com/merchants/options.php?Action=Keys
 
 ## White-Labeled Payment Processors
 
