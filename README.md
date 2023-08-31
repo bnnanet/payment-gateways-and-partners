@@ -39,6 +39,10 @@ If you create an integration, please consider tagging it with these keywords to 
 - gateway.js
 - white labeled
 
+## Public Sandbox
+
+https://www.integratepayments.com/
+
 ## White-Labeled Payment Processors
 
 It's used by *ISV*s  to create payment experiences similar to Stripe: \
