@@ -43,7 +43,10 @@ If you create an integration, please consider tagging it with these keywords to 
 
 Integrate Payments has an open sandbox instance:
 - Login: https://www.integratepayments.com/payment-integration-platform
+  - Username: sandboxfun
+  - Password: sandbox8
 - API Keys: https://integratepayments.transactiongateway.com/merchants/options.php?Action=Keys
+- Docs: https://integratepayments.transactiongateway.com/merchants/resources/integration/integration_portal.php
 
 ## White-Labeled Payment Processors
 
