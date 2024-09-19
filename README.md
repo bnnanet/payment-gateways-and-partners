@@ -39,7 +39,7 @@ If you create an integration, please consider tagging it with these keywords to 
 - gateway.js
 - white labeled
 
-## Public Sandbox
+## Public Sandbox (nmi)
 
 Integrate Payments has an open sandbox instance:
 - Login: https://www.integratepayments.com/payment-integration-platform
@@ -47,6 +47,7 @@ Integrate Payments has an open sandbox instance:
   - Password: sandbox8
 - API Keys: https://integratepayments.transactiongateway.com/merchants/options.php?Action=Keys
 - Docs: https://integratepayments.transactiongateway.com/merchants/resources/integration/integration_portal.php
+- **Updated** Docs: https://docs.nmi.dev/docs/payment-component
 
 ## White-Labeled Payment Processors
 
