@@ -96,14 +96,14 @@ It's used by *ISV*s  to create payment experiences similar to Stripe: \
 These sites can be found by searching for terms from the whitelabled documentation and finding Sandbox API links.
 
 For example:
-- `"collect.js" payment api`
+- `"collect.js" payment api` (NMI)
 - `"merchants/resources/integration/integration_portal"`
 - `transactiongateway.com`
 - sites with a CNAME for `secure.` pointing to `transactiongateway.com`
 
 # Which Payment Processors Use FluidPay?
 
-- [**FluidPay**](https://sandbox.fluidpay.com/docs/api/)
+- [**FluidPay**](https://sandbox.fluidpay.com/docs/api/) (wallet.js)
 - [2nd Amendment Processing](https://sandbox.2apgateway.com/docs/api/) (<https://www.secondamendmentprocessing.com/>)
 - [approvely](https://sandbox.approvely.net/docs/api/) (<https://www.approvely.com/>)
 - [BlueDog](https://sandbox.bluedogpayments.com/docs/api/) (<https://fortispay.com/bluedog/>)
